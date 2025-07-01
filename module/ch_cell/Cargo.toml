@@ -1,5 +1,5 @@
 [package]
-name = "ch_array"
+name = "ch_cell"
 version = "0.1.0"
 edition = "2021"
 

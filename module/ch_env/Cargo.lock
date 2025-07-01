@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ch_array"
+name = "ch_env"
 version = "0.1.0"
